@@ -1,0 +1,20 @@
+{
+    "name": "Anman MPU9250",
+    "keywords": "i2c, mpu9250, imu",
+    "description": "Mbed Library for MPU9250 9DOF IMU",
+    "frameworks": "mbed",
+    "platforms": "*",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AnmanTechnology/mbed-MPU9250.git"
+    },
+    "authors": [
+        {
+            "name": "Liews Wuttipat",
+            "email": "sweilz.w@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "examples": []
+}
