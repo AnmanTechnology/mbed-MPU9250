@@ -4,7 +4,6 @@
     "description": "Mbed Library for MPU9250 9DOF IMU",
     "frameworks": "mbed",
     "platforms": "*",
-    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/AnmanTechnology/mbed-MPU9250.git"
